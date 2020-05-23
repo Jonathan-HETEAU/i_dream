@@ -1,0 +1,471 @@
+fileFormatVersion: 2
+guid: d3e1c959e1f677646a6ed7b143c66c65
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jambe
+    21300002: Play
+    21300004: Cadran
+    21300006: Clochette
+    21300008: Marteau
+    21300010: Pied
+    21300012: Meuble
+    21300014: Lapin_nez
+    21300016: Lapin_Oreille
+    21300018: Chausson
+    21300020: Lapin_tete
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jambe
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 231
+        height: 677
+      alignment: 9
+      pivot: {x: 0.63375354, y: 0.984906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfb01d69920a864b933f8dc98a9f91f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 910
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f314a799bab13844aaac3777db42a62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cadran
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 848
+        width: 233
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f79ed657e085941a60f1397367bdd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clochette
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1065
+        width: 214
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4881877, y: 0.9045616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc2a9d42816e949b063003ce5f654a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marteau
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 938
+        width: 25
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4529834, y: 0.05244751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413b34ea7e496d45952c6aabb2e40bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pied
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 543
+        width: 295
+        height: 234
+      alignment: 9
+      pivot: {x: 0.3099898, y: 0.88711625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db13e9b9014a84791119094fb3d324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meuble
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 685
+        width: 253
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450218bdc4ccdb4aa84a14a99f66520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin_nez
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f096c0f7ccb18c48baf7192e64329d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin_Oreille
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 217
+        width: 244
+        height: 240
+      alignment: 9
+      pivot: {x: 0.031185837, y: 0.072891936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01516be8d3d776c4aa7a27b4ef11dba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chausson
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 376
+        height: 135
+      alignment: 9
+      pivot: {x: 0.31430095, y: 0.6870746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb9992b4d25fb6428fd012e1ffef79d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lapin_tete
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 182
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a668199402ccbbd439bf51105eedb324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -4.5, y: -385.5}
+      - {x: -121.5, y: -385.5}
+      - {x: -148.5, y: -436.5}
+      - {x: -148.5, y: -567.5}
+      - {x: -112.5, y: -593.5}
+      - {x: -17.5, y: -593.5}
+      - {x: 23.5, y: -576.5}
+      - {x: 37.5, y: -528.5}
+      - {x: 37.5, y: -439.5}
+      - {x: 7.5, y: -388.5}
+    - - {x: -594.5, y: -421.5}
+      - {x: -594.5, y: -551.5}
+      - {x: -591.5, y: -560.5}
+      - {x: -234.5, y: -560.5}
+      - {x: -214.5, y: -544.5}
+      - {x: -214.5, y: -421.5}
+    - - {x: -181.5, y: -236.5}
+      - {x: -200.5, y: -160.5}
+      - {x: -284.5, y: -134.5}
+      - {x: -319.5, y: -134.5}
+      - {x: -376.5, y: -192.5}
+      - {x: -412.5, y: -266.5}
+      - {x: -429.5, y: -310.5}
+      - {x: -429.5, y: -378.5}
+      - {x: -418.5, y: -378.5}
+      - {x: -415.5, y: -374.5}
+      - {x: -199.5, y: -276.5}
+      - {x: -181.5, y: -255.5}
+    - - {x: -520.5, y: -266.5}
+      - {x: -524.5, y: -273.5}
+      - {x: -524.5, y: -302.5}
+      - {x: -518.5, y: -306.5}
+      - {x: -495.5, y: -306.5}
+      - {x: -486.5, y: -294.5}
+      - {x: -486.5, y: -275.5}
+      - {x: -494.5, y: -266.5}
+    - - {x: -600.5, y: 593.5}
+      - {x: -652.5, y: 542.5}
+      - {x: -652.5, y: 206.5}
+      - {x: -615.5, y: -68.5}
+      - {x: -563.5, y: -85.5}
+      - {x: -494.5, y: -85.5}
+      - {x: -451.5, y: -72.5}
+      - {x: -419.5, y: 290.5}
+      - {x: -419.5, y: 593.5}
+    - - {x: -165.5, y: 185.5}
+      - {x: -264.5, y: 185.5}
+      - {x: -272.5, y: 181.5}
+      - {x: -317.5, y: 76.5}
+      - {x: -317.5, y: -45.5}
+      - {x: -315.5, y: -52.5}
+      - {x: -196.5, y: -52.5}
+      - {x: -20.5, y: -23.5}
+      - {x: -18.5, y: -18.5}
+      - {x: -18.5, y: 8.5}
+    - - {x: 503.5, y: 133.5}
+      - {x: 397.5, y: 94.5}
+      - {x: 397.5, y: 89.5}
+      - {x: 652.5, y: 89.5}
+      - {x: 652.5, y: 133.5}
+    - - {x: 293.5, y: 496.5}
+      - {x: 171.5, y: 496.5}
+      - {x: 113.5, y: 461.5}
+      - {x: 113.5, y: 332.5}
+      - {x: 153.5, y: 252.5}
+      - {x: 334.5, y: 252.5}
+      - {x: 350.5, y: 306.5}
+      - {x: 350.5, y: 450.5}
+      - {x: 318.5, y: 482.5}
+    - - {x: -99.5, y: 561.5}
+      - {x: -221.5, y: 561.5}
+      - {x: -291.5, y: 520.5}
+      - {x: -291.5, y: 364.5}
+      - {x: -242.5, y: 314.5}
+      - {x: -79.5, y: 314.5}
+      - {x: -74.5, y: 317.5}
+      - {x: -44.5, y: 389.5}
+      - {x: -44.5, y: 499.5}
+      - {x: -92.5, y: 559.5}
+    - - {x: 487.5, y: 376.5}
+      - {x: 481.5, y: 375.5}
+      - {x: 481.5, y: 352.5}
+      - {x: 483.5, y: 342.5}
+      - {x: 500.5, y: 342.5}
+      - {x: 510.5, y: 351.5}
+      - {x: 510.5, y: 370.5}
+      - {x: 509.5, y: 376.5}
+    - - {x: 454.5, y: 580.5}
+      - {x: 430.5, y: 517.5}
+      - {x: 428.5, y: 506.5}
+      - {x: 428.5, y: 475.5}
+      - {x: 435.5, y: 469.5}
+      - {x: 524.5, y: 469.5}
+      - {x: 629.5, y: 476.5}
+      - {x: 646.5, y: 486.5}
+      - {x: 646.5, y: 547.5}
+      - {x: 606.5, y: 580.5}
+    physicsShape: []
+    bones: []
+    spriteID: 32a24a5bd614edb448a5453e9a8be713
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

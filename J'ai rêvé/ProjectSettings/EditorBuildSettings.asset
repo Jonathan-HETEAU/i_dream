@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Reveil.unity
+    guid: 7f6c9be38addfe74a8780b5acd83bc34
+  - enabled: 1
+    path: Assets/Scenes/Jeu.unity
+    guid: 02d621a0939c8d4459ccc73ce5bd5967
+  - enabled: 1
+    path: "Assets/Scenes/Cr\xE9dits.unity"
+    guid: 8554d0242db49e44ba786262c69e8984
+  m_configObjects: {}
